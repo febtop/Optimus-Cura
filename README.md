@@ -1,2 +1,2 @@
 # Optimus-Cura
-files needed to setup Cura slices for Optimus delta
+files needed to setup Cura slicer for Optimus delta
